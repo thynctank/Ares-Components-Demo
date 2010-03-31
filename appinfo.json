@@ -1,0 +1,9 @@
+{
+	"id": "com.thynctank.demo",
+	"version": "1.0.0",
+	"vendor": "My Company",
+	"type": "web",
+	"main": "index.html",
+	"title": "sampleApp",
+	"icon": "icon.png"
+}
